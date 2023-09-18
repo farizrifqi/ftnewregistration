@@ -1,0 +1,23 @@
+{
+  "name": "ftnewregistration",
+  "version": "1.0.0",
+  "description": "Listen to new valid friend.tech registration (eth deposit) which able to buy their key.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farizrifqi/ftnewregistration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farizrifqi/ftnewregistration/issues"
+  },
+  "homepage": "https://github.com/farizrifqi/ftnewregistration#readme",
+  "dependencies": {
+    "ethers": "^6.7.1",
+    "fs": "^0.0.1-security"
+  }
+}
