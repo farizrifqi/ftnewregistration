@@ -4,7 +4,6 @@ Listen to new valid [friend.tech](https://friend.tech/) registration (eth deposi
 Valid registration means the key is able to buy. Which they deposited eth already. User can do registration without deposit eth but can't make any transaction.
 
 ## Tools Used
-- [fs](https://nodejs.org/api/fs.html)
 - [ethers](https://www.npmjs.com/package/ethers)
 
 ## Quickstart
